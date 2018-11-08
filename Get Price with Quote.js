@@ -1,4 +1,5 @@
 (function() {
+    //Test push
         var tag = new Object();
         tag['TAG001'] = 'Price not calculated, because entitlement check has not been performed.';
         tag['TAG002'] = 'Part is not covered by contract.';
